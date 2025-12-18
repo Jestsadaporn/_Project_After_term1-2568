@@ -1,4 +1,6 @@
 # Research Process
 ### Goals
-#### Perpose :
+ Perpose :
+### Identify available resource :
+
 
