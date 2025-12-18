@@ -3,5 +3,5 @@
 :
 ### Identify available resource :
 :
-### Select a methodology
+### Select a methodology :
 :
