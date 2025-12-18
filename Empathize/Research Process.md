@@ -1,4 +1,4 @@
 # Research Process
 ### Goals
-#### perpose :
+#### Perpose :
 
